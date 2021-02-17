@@ -13,6 +13,7 @@ Simple Test
     log to console    musicians
     log to console    more musicians
     sleep    3s
+    sleep    5s
     close browser    # close the browser window
 
 *** Keywords ***
