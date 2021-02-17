@@ -11,7 +11,8 @@ Simple Test
     click element    link:MUSICIANS
     sleep    3s
     log to console    musicians
+    log to console    more musicians
     sleep    3s
-    close browser
+    close browser    # close the browser window
 
 *** Keywords ***
